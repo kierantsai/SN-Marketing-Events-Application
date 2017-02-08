@@ -5,13 +5,13 @@
             <element>type</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-08 22:31:21</sys_created_on>
-            <sys_id>e5ae7c0e4f3032009b6327118110c7ac</sys_id>
+            <sys_created_on>2017-02-08 23:10:55</sys_created_on>
+            <sys_id>d9b74d024f7032009b6327118110c793</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_42282_mea_equipment_request" sys_domain="global" view="Default view">b01bb08a4f3032009b6327118110c787</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-08 22:31:21</sys_updated_on>
+            <sys_updated_on>2017-02-08 23:10:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,83 +19,69 @@
             <element>cost</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-08 22:31:21</sys_created_on>
-            <sys_id>69ae7c0e4f3032009b6327118110c7ac</sys_id>
+            <sys_created_on>2017-02-08 23:10:55</sys_created_on>
+            <sys_id>5db74d024f7032009b6327118110c793</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_42282_mea_equipment_request" sys_domain="global" view="Default view">b01bb08a4f3032009b6327118110c787</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-08 22:31:21</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>state</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-08 22:31:21</sys_created_on>
-            <sys_id>e9ae7c0e4f3032009b6327118110c7ac</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_42282_mea_equipment_request" sys_domain="global" view="Default view">b01bb08a4f3032009b6327118110c787</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-08 22:31:21</sys_updated_on>
+            <sys_updated_on>2017-02-08 23:10:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>3</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-08 22:31:21</sys_created_on>
-            <sys_id>6dae7c0e4f3032009b6327118110c7ac</sys_id>
+            <sys_created_on>2017-02-08 23:10:55</sys_created_on>
+            <sys_id>ddb74d024f7032009b6327118110c793</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_42282_mea_equipment_request" sys_domain="global" view="Default view">b01bb08a4f3032009b6327118110c787</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-08 22:31:21</sys_updated_on>
+            <sys_updated_on>2017-02-08 23:10:55</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>needed_from</element>
-            <position>4</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-08 22:31:21</sys_created_on>
-            <sys_id>edae7c0e4f3032009b6327118110c7ac</sys_id>
+            <sys_created_on>2017-02-08 23:10:55</sys_created_on>
+            <sys_id>51b74d024f7032009b6327118110c794</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_42282_mea_equipment_request" sys_domain="global" view="Default view">b01bb08a4f3032009b6327118110c787</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-08 22:31:21</sys_updated_on>
+            <sys_updated_on>2017-02-08 23:10:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>needed_until</element>
-            <position>5</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-08 22:31:21</sys_created_on>
-            <sys_id>61ae7c0e4f3032009b6327118110c7ad</sys_id>
+            <sys_created_on>2017-02-08 23:10:55</sys_created_on>
+            <sys_id>d1b74d024f7032009b6327118110c794</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_42282_mea_equipment_request" sys_domain="global" view="Default view">b01bb08a4f3032009b6327118110c787</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-08 22:31:21</sys_updated_on>
+            <sys_updated_on>2017-02-08 23:10:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>marketing_event</element>
-            <position>6</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-02-08 22:31:21</sys_created_on>
-            <sys_id>e1ae7c0e4f3032009b6327118110c7ad</sys_id>
+            <sys_created_on>2017-02-08 23:10:55</sys_created_on>
+            <sys_id>55b74d024f7032009b6327118110c794</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_42282_mea_equipment_request" sys_domain="global" view="Default view">b01bb08a4f3032009b6327118110c787</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-02-08 22:31:21</sys_updated_on>
+            <sys_updated_on>2017-02-08 23:10:55</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
