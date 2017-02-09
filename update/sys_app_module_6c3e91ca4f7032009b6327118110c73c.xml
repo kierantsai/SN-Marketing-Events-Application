@@ -6,41 +6,43 @@
         <assessment/>
         <content_page/>
         <device_type/>
-        <filter/>
-        <hint>List of all Equipment Request records in the database</hint>
+        <filter table="x_42282_mea_equipment_request">state!=3^EQ<item endquery="false" field="state" goto="false" newquery="false" operator="!=" or="false" value="3"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
         <homepage/>
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>Equipment Requests</mobile_title>
+        <mobile_title>Open</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_42282_mea_equipment_request</name>
-        <order>300</order>
+        <order>400</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_42282_mea.equipment_request_user</roles>
+        <roles>x_42282_mea.marketing_event_user</roles>
         <survey/>
         <survey_overwrite>true</survey_overwrite>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-02-08 22:06:22</sys_created_on>
+        <sys_created_on>2017-02-09 00:52:14</sys_created_on>
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>37e8308a4f3032009b6327118110c7f3</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>All Equipment Requests</sys_name>
+        <sys_id>6c3e91ca4f7032009b6327118110c73c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open Equipment Requests</sys_name>
         <sys_overrides/>
         <sys_package display_value="Marketing Events Application" source="x_42282_mea">e49274464f3032009b6327118110c772</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Marketing Events Application">e49274464f3032009b6327118110c772</sys_scope>
-        <sys_update_name>sys_app_module_37e8308a4f3032009b6327118110c7f3</sys_update_name>
+        <sys_update_name>sys_app_module_6c3e91ca4f7032009b6327118110c73c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-02-09 00:52:37</sys_updated_on>
+        <sys_updated_on>2017-02-09 00:52:14</sys_updated_on>
         <timeline_page/>
-        <title>All Equipment Requests</title>
+        <title>Open Equipment Requests</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
