@@ -40,7 +40,7 @@
         <recurring_frequency/>
         <recurring_price>0</recurring_price>
         <roles/>
-        <sc_catalogs>e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
+        <sc_catalogs>aea7ff71db0932002ae8f20ebf9619bc,e0d08b13c3330100c8b837659bba8fb4</sc_catalogs>
         <sc_ic_item_staging/>
         <sc_ic_version/>
         <script/>
@@ -49,9 +49,9 @@
         <sys_class_name>sc_cat_item_producer</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-02-20 03:33:59</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_customer_update>true</sys_customer_update>
         <sys_id>e50da2650fc57200cf5bcfdce1050e9b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Request Marketing Event</sys_name>
         <sys_package display_value="Marketing Events Application" source="x_42282_mea">e49274464f3032009b6327118110c772</sys_package>
         <sys_policy/>
@@ -59,7 +59,7 @@
         <sys_scope display_value="Marketing Events Application">e49274464f3032009b6327118110c772</sys_scope>
         <sys_update_name>sc_cat_item_producer_e50da2650fc57200cf5bcfdce1050e9b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-02-20 03:33:59</sys_updated_on>
+        <sys_updated_on>2017-02-21 03:48:11</sys_updated_on>
         <table_name>x_42282_mea_marketing_event</table_name>
         <template/>
         <type>item</type>
