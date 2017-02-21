@@ -2,7 +2,6 @@
 <record_update table="sysevent_email_template">
     <sysevent_email_template action="INSERT_OR_UPDATE">
         <collection>x_42282_mea_attendee</collection>
-        <email_layout/>
         <message/>
         <message_html><![CDATA[<p>Dear ${first_name},</p>
 <p>&nbsp;</p>
@@ -16,7 +15,7 @@
         <sys_class_name>sysevent_email_template</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-02-20 03:21:40</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>b72a6ee10fc57200cf5bcfdce1050e36</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Marketing Event Registration</sys_name>
